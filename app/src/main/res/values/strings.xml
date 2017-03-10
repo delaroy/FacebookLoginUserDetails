@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookLoginUserDetails</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="title_activity_main2">UserProfile</string>
+</resources>
